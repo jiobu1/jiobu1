@@ -25,7 +25,7 @@
 
 [![Jisha's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jishaobukwelu&type=horizontal)](https://medium.com/@jishaobukwelu)
 
-### Reach me at:
+### You can reach me at:
 <a href="https://linkedin.com/in/jishaobukwelu">
   <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
