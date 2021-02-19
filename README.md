@@ -20,20 +20,10 @@
 -----
 
 ### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-Python-4DB33D?style=flat&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Postgresql-4DB33D?style=flat&logo=postgresql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-AWS RDS-430098?style=flat&logo=awsrds&logoColor=white">
-<img src="http://img.shields.io/badge/-FastAPI-430098?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-4DB33D?style=flat&logo=python&logoColor=4B8BBE"> <img src="https://img.shields.io/badge/-Postgresql-4DB33D?style=flat&logo=postgresql&logoColor=0064a5"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=4db33d"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=00758F"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=F1502F"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=f34f29"><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=purple"><img src="http://img.shields.io/badge/-AWS RDS-430098?style=flat&logo=awsrds&logoColor=orange"><img src="http://img.shields.io/badge/-FastAPI-430098?style=flat&logo=fastapi&logoColor=white">
 
 ### Familiar With
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 ***
 
 <a href="https://github.com/jiobu1">
