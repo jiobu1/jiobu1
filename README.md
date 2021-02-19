@@ -27,3 +27,6 @@ Skills:
   <img src="https://github-readme-stats.vercel.app/api?username=jiobu1&show_icons=true&hide_border=true" />
 </a>
 
+### You can checkout my blogs
+
+[![Jisha's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jishaobukwelu&type=horizontal)](https://medium.com/@jishaobukwelu)
