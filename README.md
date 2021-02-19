@@ -1,16 +1,6 @@
 # <a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
 ### Hi! My name is Jisha. I am a budding Data Scientist. I love making new discoveries and connections with data. 
 
-### Reach me at:
-<a href="https://linkedin.com/in/jishaobukwelu">
-  <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jiobu1">
-  <img align="left" alt="Jisha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
-<br/>
-
 ### Skills:
 - Data Analysis with Python
 - Data Science
@@ -34,3 +24,13 @@
 ### You can checkout my blogs
 
 [![Jisha's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jishaobukwelu&type=horizontal)](https://medium.com/@jishaobukwelu)
+
+### Reach me at:
+<a href="https://linkedin.com/in/jishaobukwelu">
+  <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/jiobu1">
+  <img align="left" alt="Jisha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
