@@ -1,5 +1,6 @@
 # <a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
 
+### Reach me at:
 <a href="https://linkedin.com/in/jishaobukwelu">
   <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,7 +10,7 @@
 <br/>
 <br/>
 
-Skills:
+### Skills:
 - Data Analysis with Python
 - Data Science
 - Python
