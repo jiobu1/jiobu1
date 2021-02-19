@@ -1,4 +1,4 @@
-#<a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
+# <a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
 
 <a href="https://linkedin.com/in/jishaobukwelu">
   <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,8 +33,9 @@ Skills:
 
 <br/>
 Feel free to reach out to me here
-  <a href="https://linkedin.com/in/jishaobukwelu">
-  <img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br/>
+<a href="https://linkedin.com/in/jishaobukwelu">
+<img align="left" alt="Jisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 -----
