@@ -1,4 +1,5 @@
 # <a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
+### Hi! My name is Jisha. I am a budding Data Scientist. I love making new discoveries and connections with data. 
 
 ### Reach me at:
 <a href="https://linkedin.com/in/jishaobukwelu">
