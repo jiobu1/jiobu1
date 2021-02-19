@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/jiobu1/">Jisha Obukwelu</a>
-### Hi! My name is Jisha. I am a budding Data Scientist. I love making new discoveries and connections with data. 
+### Hi! My name is Jisha. I am a Data Scientist. I love making new discoveries and connections with data and sharing these discoveries with others.
 
 ### Skills:
 - Data Analysis with Python
